@@ -1,2 +1,2 @@
-# Raise-Consciousness-News
+# The Huffington Post! by Me
 class webpage
